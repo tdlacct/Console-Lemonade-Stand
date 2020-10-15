@@ -1,0 +1,59 @@
+﻿1>------ Build started: Project: ConsoleLemonadeStand, Configuration: Debug Win32 ------
+1>ConsoleLemonadeStand.cpp
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\recipe.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\recipe.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\recipe.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\user.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\user.h(30): warning C4553: '==': result of expression not used; did you intend '='?
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\user.h(41): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(67): warning C4305: '+=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(74): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(82): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(88): warning C4305: '-=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(94): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(106): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(133): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(147): warning C4552: '/': result of expression not used
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(149): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(162): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(168): warning C4552: '/': result of expression not used
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(170): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(201): warning C4305: '-=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(207): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(212): warning C4305: '-=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(226): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(231): warning C4305: '+=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(237): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(334): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(341): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(369): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(375): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(380): warning C4305: 'return': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(27): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(82): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(84): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(98): warning C4305: '-=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(101): warning C4553: '==': result of expression not used; did you intend '='?
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(107): warning C4305: '-=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(110): warning C4553: '==': result of expression not used; did you intend '='?
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(118): warning C4553: '==': result of expression not used; did you intend '='?
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(123): warning C4305: '+=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(125): warning C4553: '==': result of expression not used; did you intend '='?
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(131): warning C4305: '-=': truncation from 'double' to 'float'
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(133): warning C4553: '==': result of expression not used; did you intend '='?
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\day.h(138): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\consolelemonadestand.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\consolelemonadestand.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(111): warning C4715: 'RandomEvent::Dog': not all control paths return a value
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(240): warning C4715: 'RandomEvent::Duck': not all control paths return a value
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(175): warning C4715: 'RandomEvent::Driver': not all control paths return a value
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(344): warning C4715: 'WeatherEvent::Storm': not all control paths return a value
+1>c:\users\tdlne\source\repos\consolelemonadestand\consolelemonadestand\events.h(385): warning C4715: 'WeatherEvent::Tornado': not all control paths return a value
+1>ConsoleLemonadeStand.vcxproj -> C:\Users\tdlne\source\repos\ConsoleLemonadeStand\Debug\ConsoleLemonadeStand.exe
+1>Done building project "ConsoleLemonadeStand.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
